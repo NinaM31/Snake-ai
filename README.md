@@ -12,7 +12,7 @@ This project does not aim to create the perfect Ai snake, only vanilla path find
 Main.py runs the program.
 
 ## 1) Genetic algorithm using neural networks
-* train your own neural network with the given parameters 
+* train your own neural network by changing the given parameter values. 
 * save the trained model and load it.
 * within the code you can change seeds and activation functions.
 <p align='center'>
