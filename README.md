@@ -3,7 +3,7 @@
 you'll need to install:
 
 - pygame==2.0.1
-- numpy==1.18.5
+- numpy
 
 # About
 
@@ -20,9 +20,17 @@ Main.py runs the program.
 
 - train your own neural network by changing the given parameter values.
 - save the trained model and load it.
-- within the code you can change seeds and activation functions.
+<img src="images/ga.gif" width="400"/>
+
+
 
 ## 2) path finding Ai
 
 Currently only 3 path finding algorithms are available
 You can preview the calculated path for the given algorithm.
+<p float="left">
+  <img src='images/mainMenu.png' width='400'/>
+  <img src='images/bfs.gif' width='400'/>
+  <img src='images/astar.gif' width='400'/>
+  <img src='images/dfs.gif' width='400'/>
+</p>
