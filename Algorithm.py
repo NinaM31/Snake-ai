@@ -71,6 +71,3 @@ class Algorithm(ABC):
             neighbors.append(self.grid[i][j+1])
 
         return neighbors
-
-    def reset_seed(self):
-        pass

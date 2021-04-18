@@ -24,7 +24,6 @@ class GameController:
             self.snake.reset()
             self.snake = None
 
-        self.algo.reset_seed()
         self.algo = None
         self.snakes = []
         self.model_loaded = False

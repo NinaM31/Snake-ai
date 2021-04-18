@@ -232,9 +232,6 @@ class GameGUI:
             self.window.blit(self.display, (0, 0))
             pygame.display.update()
         self.controller.reset()
-        # self.speed = 110
-        # self.speed_up = 50
-        # pygame.time.set_timer(self.SCREEN_UPDATE, self.speed)
 
     def is_quit(self, event):
         # user presses exit icon
@@ -269,9 +266,6 @@ class GameGUI:
                 if event.key == pygame.K_RETURN:  # on Enter
                     self.START = True
                     self.view_path = False
-                    # self.speed = 110
-                    # self.speed_up = 50
-                    # pygame.time.set_timer(self.SCREEN_UPDATE, self.speed)
 
                 elif event.key == pygame.K_q:  # on q return
                     self.BACK = True
