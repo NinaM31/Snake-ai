@@ -10,7 +10,7 @@ you'll need to install:
 Used for educational purposes, show cases different path finding Ai and a genetic algorithm using neural networks.  
 These algorithms are evaluated under the same fruit spawn seed.
 This project does not aim to create the perfect Ai snake, only vanilla path finding algorithms are used and a simple neural network.  
-<br>preview: https://youtu.be/AEQMAnJ5iP4
+
 
 # what to expect
 
