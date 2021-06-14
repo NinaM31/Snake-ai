@@ -8,7 +8,7 @@ you'll need to install:
 # About
 
 Used for educational purposes, show cases different path finding Ai and a genetic algorithm using neural networks.  
-These algorithms are evaluated under the same fruit spawn seed.
+These algorithms are evaluated under the same fruit seed spawn.
 This project does not aim to create the perfect Ai snake, only vanilla path finding algorithms are used and a simple neural network.  
 
 
@@ -20,8 +20,10 @@ Main.py runs the program.
 
 - train your own neural network by changing the given parameter values.
 - save the trained model and load it.
-<img src="images/ga.gif" width="400"/>
-
+<p float="left">
+  <img src="images/ga.gif" width="400"/>
+  <img src="images/load.gif" width="403"/>
+</p>
 
 
 ## 2) path finding Ai
